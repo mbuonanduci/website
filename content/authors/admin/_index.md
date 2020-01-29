@@ -21,6 +21,12 @@ interests:
 - Forest ecology
 name: Michele S Buonanduci
 organizations:
+- name: Harvey Lab
+  url: "https://depts.washington.edu/bjhlab/"
+- name: Quantitative Ecology and Resource Management
+  url: "https://quantitative.uw.edu/graduate/"
+- name: School of Environmental and Forest Sciences
+  url: "https://sefs.uw.edu"
 - name: University of Washington
   url: ""
 role: PhD Student
@@ -28,9 +34,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
-- icon: tree
-  icon_pack: fas
-  link: https://depts.washington.edu/bjhlab/
 - icon: github
   icon_pack: fab
   link: https://github.com/mbuonanduci
