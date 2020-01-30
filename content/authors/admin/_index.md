@@ -1,8 +1,7 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include spatial analysis, landscape ecology, and forest ecology.
 education:
   courses:
   - course: PhD in Quantitative Ecology and Resource Management
@@ -19,9 +18,9 @@ interests:
 - Spatial analysis
 - Landscape ecology
 - Forest ecology
-name: Michele S Buonanduci
+name: Michele Buonanduci
 organizations:
-- name: Harvey Lab
+- name: the Harvey Lab
   url: "https://depts.washington.edu/bjhlab/"
 - name: Quantitative Ecology and Resource Management
   url: "https://quantitative.uw.edu/graduate/"
@@ -43,6 +42,4 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student in the Quantitative Ecology and Resource Management program and the Harvey Lab at the University of Washington. My research.......
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a PhD student in the Quantitative Ecology and Resource Management program at the University of Washington.
