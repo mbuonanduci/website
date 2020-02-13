@@ -42,4 +42,4 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student in the Quantitative Ecology and Resource Management program at the University of Washington.
+I am a PhD student in the Quantitative Ecology and Resource Management program and the Harvey Lab at the University of Washington. Broadly, I am interested in harnessing quantitative methods to address questions in the field of landscape ecology. My graduate research focuses on understanding the causes and consequences of forest disturbances across multiple spatial and spatio-temporal scales.
