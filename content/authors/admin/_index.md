@@ -36,6 +36,12 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/mbuonanduci
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=IAgcXWUAAAAJ
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0003-3646-9954
 superuser: true
 user_groups:
 - Researchers
