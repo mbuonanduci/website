@@ -1,12 +1,12 @@
 ---
-date: "2019-08-03T00:00:00Z"
+date: "2020-08-03T00:00:00Z"
 external_link: ""
 image:
   caption: Photo by Michele Buonanduci
   focal_point: Smart
 links:
 slides: 
-summary: Modeling the growth release of host and non-host trees surviving a severe mountain pine beetle outbreak.
+summary: 
 tags:
 title: Compensatory responses following bark beetle outbreak
 url_code: ""

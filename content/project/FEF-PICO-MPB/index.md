@@ -6,9 +6,9 @@ image:
   focal_point: Smart
 links:
 slides: 
-summary: Insights from a spatially explicit long-term monitoring dataset collected in the Southern Rocky Mountains.
+summary: 
 tags:
-title: Modeling individual tree mortality from bark beetle outbreak
+title: Host tree mortality from bark beetle outbreak
 url_code: ""
 url_pdf: ""
 url_slides: ""
