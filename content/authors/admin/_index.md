@@ -28,7 +28,7 @@ organizations:
   url: "https://sefs.uw.edu"
 - name: University of Washington
   url: ""
-role: PhD Student
+role: PhD Candidate
 social:
 - icon: envelope
   icon_pack: fas
@@ -48,4 +48,4 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student in the Quantitative Ecology and Resource Management program and the Harvey Lab at the University of Washington. Broadly, I am interested in harnessing quantitative methods to address questions in the field of landscape ecology. My graduate research focuses on understanding the causes and consequences of forest disturbances across multiple spatial and temporal scales.
+I am a PhD candidate in the Quantitative Ecology and Resource Management program and the Harvey Lab at the University of Washington. Broadly, I am interested in harnessing quantitative methods to address questions in the field of landscape ecology. My graduate research focuses on understanding the causes and consequences of forest disturbance across multiple spatial scales.
