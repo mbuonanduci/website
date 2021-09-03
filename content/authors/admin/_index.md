@@ -48,4 +48,4 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD candidate in the Quantitative Ecology and Resource Management program and the Harvey Lab at the University of Washington. Broadly, I am interested in harnessing quantitative methods to address questions in the field of landscape ecology. My graduate research focuses on understanding the causes and consequences of forest disturbance across multiple spatial scales.
+Hello! I am a PhD candidate in the Quantitative Ecology and Resource Management program and the Harvey Lab at the University of Washington. I am also a 2021-22 Research Fellow with the [Northwest Climate Adaptation Science Center](https://nwcasc.uw.edu). Broadly, I am interested in harnessing quantitative methods to address questions in the field of landscape ecology. My graduate research focuses on understanding the causes and consequences of forest disturbances (primarily bark beetle outbreaks and wildfires) across multiple spatial scales.

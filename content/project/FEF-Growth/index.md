@@ -8,7 +8,7 @@ links:
 slides: 
 summary: 
 tags:
-title: Compensatory responses following bark beetle outbreak
+title: Growth releases following bark beetle outbreak
 url_code: ""
 url_pdf: ""
 url_slides: ""
