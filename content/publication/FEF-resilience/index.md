@@ -6,8 +6,8 @@ authors:
 - Michelle C. Agne
 - Mike A. Battaglia
 - Brian J. Harvey
-date: "2021-04-13T00:00:00Z"
-doi: 
+date: "2021-10-15T00:00:00Z"
+doi: "doi:10.1002/eap.2474"
 featured: false
 image: 
   caption: 
@@ -18,7 +18,7 @@ publication: '*Ecological Applications*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: In press
+publishDate: "2021-10-15T00:00:00Z"
 slides: example
 summary: 
 tags:
