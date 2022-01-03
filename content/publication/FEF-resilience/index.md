@@ -26,7 +26,7 @@ tags:
 title: Does the legacy of historical thinning treatments foster resilience to bark beetle outbreaks in subalpine forests?
 url_code: ""
 url_dataset: ""
-url_pdf: "files/Morris_2021_EcoApps.pdf"
+url_pdf: "files/Morris_2022_EcoApps.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""
