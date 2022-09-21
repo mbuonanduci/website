@@ -18,7 +18,7 @@ interests:
 - Spatial analysis
 - Landscape ecology
 - Forest ecology
-name: Michele Buonanduci
+name: Michele S. Buonanduci
 organizations:
 - name: the Harvey Lab
   url: "https://depts.washington.edu/bjhlab/"
@@ -48,4 +48,4 @@ user_groups:
 - Visitors
 ---
 
-Hello! I am a PhD candidate in the Quantitative Ecology and Resource Management program at the University of Washington, working with Dr. Brian J. Harvey. I am also a 2021-22 [Northwest Climate Adaptation Science Center](https://nwcasc.uw.edu) Research Fellow. Broadly, I am interested in harnessing quantitative methods to address questions in the field of landscape ecology. My graduate research focuses on understanding the causes and consequences of forest disturbances (primarily bark beetle outbreaks and wildfires) across multiple spatial scales.
+Hello! I am a PhD candidate in the Quantitative Ecology and Resource Management program at the University of Washington, working with Dr. Brian J. Harvey. Broadly, I am interested in harnessing quantitative methods to address questions in the field of landscape ecology. My graduate research focuses on understanding the causes and consequences of forest disturbances (primarily bark beetle outbreaks and wildfires) across multiple spatial scales.
