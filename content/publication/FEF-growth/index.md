@@ -24,7 +24,7 @@ authors:
 - Michelle C. Agne
 - Mike A. Battaglia
 - Brian J. Harvey
-date: "2022-11-23T00:00:00Z"
+date: "2023-03-01T00:00:00Z"
 doi: "10.1007/s10980-022-01553-2"
 featured: false
 image: 
@@ -36,7 +36,7 @@ publication: '*Landscape Ecology*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2022-11-23T00:00:00Z"
+publishDate: "2023-03-01T00:00:00Z"
 slides: example
 summary: 
 tags:
@@ -44,7 +44,7 @@ tags:
 title: Fine‑scale spatial heterogeneity shapes compensatory responses of a subalpine forest to severe bark beetle outbreak
 url_code: ""
 url_dataset: ""
-url_pdf: "files/Buonanduci_etal_2022_LandscEcol.pdf"
+url_pdf: "files/Buonanduci_etal_2023_LandscEcol.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""
