@@ -6,7 +6,7 @@ education:
   courses:
   - course: PhD in Quantitative Ecology and Resource Management
     institution: University of Washington
-    year: In progress
+    year: 2023
   - course: MS in Quantitative Ecology and Resource Management
     institution: University of Washington
     year: 2019
@@ -20,15 +20,9 @@ interests:
 - Forest ecology
 name: Michele S. Buonanduci
 organizations:
-- name: the Harvey Lab
-  url: "https://depts.washington.edu/bjhlab/"
-- name: Quantitative Ecology and Resource Management
-  url: "https://quantitative.uw.edu/graduate/"
-- name: School of Environmental and Forest Sciences
-  url: "https://sefs.uw.edu"
-- name: University of Washington
-  url: ""
-role: PhD Candidate
+- name: The Nature Conservancy in Washington
+  url: "https://www.washingtonnature.org"
+role: Postdoctoral Researcher
 social:
 - icon: envelope
   icon_pack: fas
@@ -48,4 +42,4 @@ user_groups:
 - Visitors
 ---
 
-Hello! I am a PhD candidate in the Quantitative Ecology and Resource Management program at the University of Washington, working with Dr. Brian J. Harvey. Broadly, I am interested in harnessing quantitative methods to address questions in the field of landscape ecology. My graduate research focuses on understanding the causes and consequences of forest disturbances (primarily bark beetle outbreaks and wildfires) across multiple spatial scales.
+Hello! I am a soon-to-be Postdoctoral Researcher working with The Nature Conservancy in Washington. I recently completed my PhD in the Quantitative Ecology and Resource Management program at the University of Washington, working with Dr. Brian J. Harvey. Broadly, I am interested in harnessing quantitative methods to address questions in the field of landscape ecology. My graduate research focused on understanding the causes and consequences of forest disturbances (primarily bark beetle outbreaks and wildfires) across multiple spatial scales.
