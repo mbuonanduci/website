@@ -42,4 +42,4 @@ user_groups:
 - Visitors
 ---
 
-Hello! I am a soon-to-be Postdoctoral Researcher working with The Nature Conservancy in Washington. I recently completed my PhD in the Quantitative Ecology and Resource Management program at the University of Washington, working with Dr. Brian J. Harvey. Broadly, I am interested in harnessing quantitative methods to address questions in the field of landscape ecology. My graduate research focused on understanding the causes and consequences of forest disturbances (primarily bark beetle outbreaks and wildfires) across multiple spatial scales.
+Hello! I am a Postdoctoral Researcher working with The Nature Conservancy in Washington. I recently completed my PhD in the Quantitative Ecology and Resource Management program at the University of Washington, working with Dr. Brian J. Harvey. Broadly, I am interested in harnessing quantitative methods to address questions in the field of landscape ecology. My graduate research focused on understanding the causes and consequences of forest disturbances (primarily bark beetle outbreaks and wildfires) across multiple spatial scales.
