@@ -4,10 +4,10 @@ authors:
 bio: My research interests include spatial analysis, landscape ecology, and forest ecology.
 education:
   courses:
-  - course: PhD in Quantitative Ecology and Resource Management
+  - course: PhD in Quantitative Ecology
     institution: University of Washington
     year: 2023
-  - course: MS in Quantitative Ecology and Resource Management
+  - course: MS in Quantitative Ecology
     institution: University of Washington
     year: 2019
   - course: BA in Environmental Science
@@ -22,6 +22,8 @@ name: Michele S. Buonanduci
 organizations:
 - name: The Nature Conservancy in Washington
   url: "https://www.washingtonnature.org"
+- name: University of Washington
+  url: "https://sefs.uw.edu"
 role: Postdoctoral Researcher
 social:
 - icon: envelope
@@ -42,4 +44,4 @@ user_groups:
 - Visitors
 ---
 
-Hello! I am a Postdoctoral Researcher working with The Nature Conservancy in Washington. I recently completed my PhD in the Quantitative Ecology and Resource Management program at the University of Washington, working with Dr. Brian J. Harvey. Broadly, I am interested in harnessing quantitative methods to address questions in the field of landscape ecology. My graduate research focused on understanding the causes and consequences of forest disturbances (primarily bark beetle outbreaks and wildfires) across multiple spatial scales.
+Hello! I am a Postdoctoral Researcher working jointly with The Nature Conservancy in Washington and the University of Washington. I recently completed my PhD in the Quantitative Ecology and Resource Management program at the University of Washington, working with Dr. Brian J. Harvey. Broadly, I am interested in harnessing quantitative methods to address both theoretical and applied ecological questions. My graduate research focused on understanding the causes and consequences of forest disturbances (primarily bark beetle outbreaks and wildfires) at spatial scales ranging from individual trees to subcontinents. My current postdoctoral research explores terrestrial-aquatic linkages in forest ecosystems; more specifically, my research focuses on quantifying the effects of forest management and wildfire on the population health of Pacific salmon.
