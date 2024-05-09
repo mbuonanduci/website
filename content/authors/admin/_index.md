@@ -21,9 +21,9 @@ interests:
 name: Michele S. Buonanduci
 organizations:
 - name: The Nature Conservancy in Washington
-  url: "https://www.washingtonnature.org"
+  url: "https://www.washingtonnature.org/science"
 - name: University of Washington
-  url: "https://sefs.uw.edu"
+  url: "https://depts.washington.edu/bjhlab/"
 role: Postdoctoral Researcher
 social:
 - icon: envelope
@@ -44,4 +44,4 @@ user_groups:
 - Visitors
 ---
 
-Hello! I am a Postdoctoral Researcher working jointly with The Nature Conservancy in Washington and the University of Washington. I recently completed my PhD in the Quantitative Ecology and Resource Management program at the University of Washington, working with Dr. Brian J. Harvey. Broadly, I am interested in harnessing quantitative methods to address both theoretical and applied ecological questions. My graduate research focused on understanding the causes and consequences of forest disturbances (primarily bark beetle outbreaks and wildfires) at spatial scales ranging from individual trees to subcontinents. My current postdoctoral research explores terrestrial-aquatic linkages in forest ecosystems; more specifically, my research focuses on quantifying the effects of forest management and wildfire on the population health of Pacific salmon.
+Hello! I am a Postdoctoral Researcher working jointly with The Nature Conservancy and the University of Washington. Broadly, I am interested in harnessing quantitative methods to address both theoretical and applied ecological questions. I completed my PhD in the Quantitative Ecology and Resource Management program at the University of Washington, working with Dr. Brian J. Harvey. My graduate research focused on understanding the causes and consequences of forest disturbances (primarily bark beetle outbreaks and wildfires) across a range of spatial scales. Currently, my postdoctoral research explores terrestrial-aquatic linkages in forest ecosystems. More specifically, I am working to better understand how forest management and wildfire affect Pacific salmon population health.
