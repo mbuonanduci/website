@@ -6,7 +6,7 @@ authors:
 - Joshua S. Halofsky
 - Maureen C. Kennedy
 - Brian J. Harvey
-date: "2024-05-01T00:00:00Z"
+date: "2024-06-01T00:00:00Z"
 doi: ""
 featured: false
 image: 
@@ -18,7 +18,7 @@ publication: '*Ecosphere*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2024-05-01T00:00:00Z"
+publishDate: "2024-06-01T00:00:00Z"
 slides: example
 summary: 
 tags:
