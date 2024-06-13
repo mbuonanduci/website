@@ -6,8 +6,8 @@ authors:
 - Joshua S. Halofsky
 - Maureen C. Kennedy
 - Brian J. Harvey
-date: "2024-06-01T00:00:00Z"
-doi: ""
+date: "2024-06-10T00:00:00Z"
+doi: "10.1002/ecs2.4875"
 featured: false
 image: 
   caption: 
@@ -18,7 +18,7 @@ publication: '*Ecosphere*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2024-06-01T00:00:00Z"
+publishDate: "2024-06-10T00:00:00Z"
 slides: example
 summary: 
 tags:
@@ -26,7 +26,7 @@ tags:
 title: "Few large or many small fires: Using spatial scaling of severe fire to quantify effects of fire-size distribution shifts"
 url_code: ""
 url_dataset: ""
-url_pdf: ""
+url_pdf: "files/Buonanduci_etal_2024_Ecosphere.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""
