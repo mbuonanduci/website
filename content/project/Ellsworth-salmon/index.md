@@ -8,7 +8,7 @@ links:
 slides:
 summary: 
 tags:
-title: Forest restoration effects on salmon
+title: Forest restoration and salmon resilience
 url_code: ""
 url_pdf: ""
 url_slides: ""
