@@ -21,7 +21,7 @@ interests:
 name: Michele S. Buonanduci
 organizations:
 - name: The Nature Conservancy in Washington
-  url: "https://www.washingtonnature.org/science"
+  url: "https://www.nature.org/en-us/about-us/where-we-work/united-states/washington/science/"
 - name: University of Washington
   url: "https://depts.washington.edu/bjhlab/"
 role: Postdoctoral Researcher
@@ -38,6 +38,9 @@ social:
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0003-3646-9954
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/michele-buonanduci-phd-09159435/
 superuser: true
 user_groups:
 - Researchers
