@@ -15,4 +15,4 @@ url_slides: ""
 url_video: ""
 ---
 
-The [Western Fire and Forest Resilience Collaborative (WFFRC)](https://www.westernfireforest.org) is a research program designed to accelerate scientific discoveries that will enhance forest resilience and wildfire decision making.
+The [Western Fire and Forest Resilience Collaborative (WFFRC)](https://www.westernfireforest.org) is a research program designed to accelerate scientific discoveries that will enhance forest resilience and wildfire decision making. WFFRC partners with fire management and policy experts to understand, catalyze, and deliver the science they need. We are co-creating and implementing a research program that will ensure that forest stewards have the best available science to inform long-term planning.
