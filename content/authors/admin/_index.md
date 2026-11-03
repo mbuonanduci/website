@@ -17,6 +17,7 @@ email: ""
 interests:
 - Landscape ecology
 - Forest ecology
+- Fire-water connections
 - Spatial analysis and modeling
 name: Michele S. Buonanduci
 organizations:
@@ -47,4 +48,4 @@ user_groups:
 - Visitors
 ---
 
-Hello! I am a Postdoctoral Researcher working jointly with The Nature Conservancy and the University of Washington. Broadly, I am interested in harnessing quantitative methods to address both fundamental and applied ecological questions. I completed my PhD in the Quantitative Ecology and Resource Management program at the University of Washington. My graduate research focused on understanding the causes and consequences of forest disturbances (primarily bark beetle outbreaks and wildfires) across a range of spatial scales. In my postdoctoral research, I am working to quantify how fire regimes are changing across the western United States and to better understand the implications of those changes for Pacific salmon population health.
+Hello! I am a Postdoctoral Researcher working jointly with The Nature Conservancy and the University of Washington. Broadly, I am interested in harnessing quantitative methods to address both fundamental and applied ecological questions. I completed my PhD in the Quantitative Ecology and Resource Management program at the University of Washington, where my graduate research focused on understanding the causes and consequences of forest disturbances (primarily bark beetle outbreaks and wildfires) across a range of spatial scales. In my postdoctoral research, I am working to quantify how fire regimes are changing across the western United States and to better understand the implications of those changes for Pacific salmon population health.
